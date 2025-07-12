@@ -20,3 +20,6 @@ pixi run napari
 
 ### GPU option
 
+```sh
+pixi run --environment gpu napari
+```
