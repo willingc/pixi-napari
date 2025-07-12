@@ -23,3 +23,7 @@ pixi run napari
 ```sh
 pixi run --environment gpu napari
 ```
+
+## Advanced
+
+- TODO: Editable install for napari
