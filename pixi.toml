@@ -1,3 +1,4 @@
+
 [workspace]
 channels = ["conda-forge"]
 name = "napari-example"
@@ -8,7 +9,7 @@ version = "0.1.0"
 
 [dependencies]
 python = ">=3.13.5,<3.14"
-napari = "*"
+napari = "==0.6.2l"
 
 
 [feature.cpu.dependencies]
